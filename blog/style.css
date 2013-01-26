@@ -1,6 +1,6 @@
 h2 {
   margin: 0;
-  padding: 15px 0px 10px 25px;
+  padding: 20px 0px 10px 25px;
   color: #ff1111;
 }
 #container{
@@ -8,7 +8,7 @@ h2 {
   width: 1024px;
 }
 #header {
-  margin: 0;
+  margin-top: -8px;
   float: left;
   text-align: center;
   width: 1024px;
@@ -21,6 +21,7 @@ ul#navigation{
   padding: 0;
   float:left;
   text-align: center;
+  font-weight: bold;
   list-style: none;
   width: 1024px;
   font-family: 'Droid Sans', sans-serif;
@@ -48,15 +49,15 @@ ul#navigation li{
   background: #555555;
   color: #eeeeee;
 }
-ul#sidebarlist1 {
+ul#sidebarlist1, #sidebarlist2, #sidebarlist3 {
   margin: 0;
-  padding: 0;
+  padding: 0px 0px 10px 0px;
   float: right;
   width: 256px;
   background: #555555;
   color: #eeeeee;
 }
-ul#sidebarlist1 li{
+ul#sidebarlist1 li, #sidebarlist2 li, #sidebarlist3 li{
   list-style: none;
   padding: 5px 0px 5px 40px;
 }

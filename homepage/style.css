@@ -1,14 +1,29 @@
-
+h2 {
+  color: #ff1111;
+}
 #header {
-  
+  float: left;
+  text-align: center;
+  font-family: 'Droid Sans', sans-serif;
+  background: #0077dd;
+  color: #000000;
 }
-#navigation{
-  
+ul#navigation{ 
+  float:left;
+  text-align: left;
+  font-family: 'Droid Sans', sans-serif;
+  background: #000000;
+  color: #dddddd;
 }
+
 #content {
+  float: left;
   font-family: 'Droid Sans', sans-serif;
   background: #eeeeee;
+  color: #000000;
 }
 #side_bar {
-  
+  font-family: 'Droid Sans', sans-serif;
+  background: #555555;
+  color: #eeeeee;
 }

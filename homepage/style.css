@@ -1,15 +1,14 @@
-body {
+
+#header {
   
 }
-header {
+#navigation{
   
 }
-navigation{
-  
+#content {
+  font-family: 'Droid Sans', sans-serif;
+  background: #eeeeee;
 }
-content {
-  
-}
-side_bar {
+#side_bar {
   
 }

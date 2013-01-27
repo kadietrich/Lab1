@@ -15,7 +15,11 @@ h5 {
 body{
   background: #9999bb;
 }
-
 img.icons {
-  vertical-align: middle;
+  padding: 20px;
+}
+#container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
 }

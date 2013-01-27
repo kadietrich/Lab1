@@ -1,4 +1,15 @@
-#container{
-  margin: 0 auto;
-  width: 1024px;
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+}
+h5 {
+  font-family: 'Droid Sans', sans-serif;
+  color: #ffffff;
+}
+body{
+  background: #9999bb;
+}
+
+img {
+  
 }

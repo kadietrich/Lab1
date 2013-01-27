@@ -1,15 +1,21 @@
 h1{
   font-family: 'Ubuntu', sans-serif;
+  font-size: 400%;
+  text-align: center;
+  margin: 50px 0px 10px 0px;
   color: #ffffff;
 }
 h5 {
   font-family: 'Droid Sans', sans-serif;
+  font-size: 100%;
+  text-align: center;
+  margin: 5px 0px 30px 0px;
   color: #ffffff;
 }
 body{
   background: #9999bb;
 }
 
-img {
-  
+img.icons {
+  vertical-align: middle;
 }

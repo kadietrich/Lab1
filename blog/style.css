@@ -17,11 +17,11 @@ h5 {
 p {
   margin: 15px 30px 20px 30px;
 }
-#container{
+.container{
   margin: 0 auto;
   width: 1024px;
 }
-#header {
+.header {
   margin-top: -8px;
   float: left;
   text-align: center;
@@ -30,7 +30,7 @@ p {
   background: #0077dd;
   color: #000000;
 }
-ul#navigation{ 
+ul.navigation{ 
   margin: 0;
   padding: 0;
   float:left;
@@ -42,11 +42,11 @@ ul#navigation{
   background: #000000;
   color: #dddddd;
 }
-ul#navigation li{
+ul.navigation li{
   float: left;
   padding: 5px 0px 5px 30px;
 }
-#content {
+.content {
   margin: 0;
   float: left;
   width: 768px;
@@ -54,7 +54,7 @@ ul#navigation li{
   background: #eeeeee;
   color: #000000;
 }
-#sidebar {
+.sidebar {
   margin: 0;
   padding: 0;
   float: right;
@@ -64,7 +64,7 @@ ul#navigation li{
   background: #555555;
   color: #eeeeee;
 }
-ul#sidebarlist1, #sidebarlist2, #sidebarlist3 {
+ul.sidebarlist {
   margin: 0;
   padding: 0px 0px 10px 0px;
   float: right;
@@ -72,7 +72,7 @@ ul#sidebarlist1, #sidebarlist2, #sidebarlist3 {
   background: #555555;
   color: #eeeeee;
 }
-ul#sidebarlist1 li, #sidebarlist2 li, #sidebarlist3 li{
+ul.sidebarlist li{
   list-style: none;
   padding: 5px 0px 5px 50px;
 }
